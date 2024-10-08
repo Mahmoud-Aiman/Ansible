@@ -12,7 +12,7 @@ Compose contains two services:
 
 - **server**: a plain container, with SSHD installed and configured. This container will play the role as our cloud machines.
 
-### Setup
+ ### Setup
   
   The Ansible container has mapped some extra files, present on this repository:
 
